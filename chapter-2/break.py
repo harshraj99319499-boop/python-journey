@@ -4,4 +4,4 @@ for num in [1, 2, 3, 4, 5]:
         break
     print(num)
 
-print("Loop khatam!")
+print("Loop close!")

@@ -11,7 +11,7 @@ This repository documents my structured path to mastering Python programming. Ev
 ## 🗺️ Syllabus Roadmap
 
 - [x] **Chapter 1: Introduction to Python** (Setup, Syntax, Comments, First Program)
-- [ ] **Chapter 2: Keywords in Python**
+- [x] **Chapter 2: Keywords in Python**
 - [ ] **Chapter 3: Built-in Functions**
 - [ ] **Chapter 4: Core Practical Programs**
   - [x] 4.1 Weight Converter (Kg to Lbs)
@@ -40,7 +40,14 @@ python-journey/
 │   ├── intro_notes.md
 │   └── first_program.py
 ├── Chapter_2/
-│   └── keywords_notes.md
+│   ├── keywords_notes.md
+│   ├── value_keywords.py
+│   ├── decision_making.py
+│   ├── loops_demo.py
+│   ├── logical_operators.py
+│   ├── functions_demo.py
+│   ├── modules_demo.py
+│   └── exception_demo.py
 ├── Chapter_4_Programs/
 │   ├── 4_1_weight_converter.py
 │   └── ...

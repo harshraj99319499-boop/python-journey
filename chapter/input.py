@@ -1,14 +1,14 @@
 # User Input aur Type Casting
 
 # 1. Normal text input
-user_name = input("Apna naam enter karo: ")
+user_name = input("enter your name: ")
 print("Hello,", user_name)
 
 # 2. Number input (int ke sath convert karna padta hai)
-age = int(input("Apni age enter karo: "))
-print("Next year tumhari age hogi:", age + 1)
+age = int(input("Enter your Age: "))
+print("Your age are next year:", age + 1)
 
 # 3. Decimal number input (float)
-price = float(input("Product ka price enter karo: "))
+price = float(input("Enter the product price: "))
 discounted_price = price - 5.0
-print("Discount ke baad price:", discounted_price)
+print("After Discounted price:", discounted_price)

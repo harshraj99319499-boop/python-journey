@@ -47,7 +47,13 @@ python-journey/
 │   ├── logical_operators.py
 │   ├── functions_demo.py
 │   ├── modules_demo.py
-│   └── exception_demo.py
+│   └── exception_demo.p
+├── Chapter_3/
+│   ├── builtin_notes.md
+│   ├── input.py
+│   ├── sequence_funcs.py
+│   ├── builtin_demo.py
+│   └── sort_and_check.py
 ├── Chapter_4_Programs/
 │   ├── 4_1_weight_converter.py
 │   └── ...

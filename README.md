@@ -12,7 +12,7 @@ This repository documents my structured path to mastering Python programming. Ev
 
 - [x] **Chapter 1: Introduction to Python** (Setup, Syntax, Comments, First Program)
 - [x] **Chapter 2: Keywords in Python**
-- [ ] **Chapter 3: Built-in Functions**
+- [x] **Chapter 3: Built-in Functions**
 - [ ] **Chapter 4: Core Practical Programs**
   - [x] 4.1 Weight Converter (Kg to Lbs)
   - [ ] 4.2 Total and Average of 3 Numbers

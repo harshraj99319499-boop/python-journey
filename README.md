@@ -15,8 +15,8 @@ This repository documents my structured path to mastering Python programming. Ev
 - [x] **Chapter 3: Built-in Functions**
 - [ ] **Chapter 4: Core Practical Programs**
   - [x] 4.1 Weight Converter (Kg to Lbs)
-  - [ ] 4.2 Total and Average of 3 Numbers
-  - [ ] 4.3 Number Series Using For Loop
+  - [x] 4.2 Total and Average of 3 Numbers
+  - [x] 4.3 Number Series Using For Loop
   - [ ] 4.4 Name Repetition Program
   - [ ] 4.5 Triangle Pattern Generator
   - [ ] 4.6 Number Guessing Game
